@@ -1,0 +1,5 @@
+
+config BR2_PACKAGE_LDD
+	bool "ldd"
+	help
+	  Build and install the misc-modules and scull components from https://github.com/cu-ecen-aeld/ldd3.git.
